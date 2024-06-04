@@ -35,7 +35,7 @@ def main():
         print("\nTODO LIST")
         print("1. Add Task")
         print("2. Delete Task")
-        print("3. Mark the Task as Completed")
+        print("3. Mark  Task as Completed")
         print("4. Display Tasks")
         print("5. Exit")
 
