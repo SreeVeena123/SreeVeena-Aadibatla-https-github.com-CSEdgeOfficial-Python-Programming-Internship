@@ -20,7 +20,7 @@ def divide(num1, num2):
 def calculator():
     print("Welcome to Simple Calculator!")
     print("1. Addition")
-    print("2. Subtraction")
+    print("2. Subtract")
     print("3. Multiplication")
     print("4. Division")
     print("5. Exit")
@@ -35,7 +35,7 @@ def calculator():
             if choice == '1':
                 print("Result:", add(num1, num2))
             elif choice == '2':
-                print("Result:", subtraction(num1, num2))
+                print("Result:", subtract(num1, num2))
             elif choice == '3':
                 print("Result:", multiply(num1, num2))
             elif choice == '4':
