@@ -1,3 +1,4 @@
+#ADDITION,SUBTRACTION,MULTIPLICATION,DIVISION
 # Addition Function
 def add(num1, num2):
     return num1 + num2
