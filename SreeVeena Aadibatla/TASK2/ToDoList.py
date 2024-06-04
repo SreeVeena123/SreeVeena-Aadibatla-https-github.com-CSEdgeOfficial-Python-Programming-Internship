@@ -56,7 +56,7 @@ def main():
             print("Exiting. Goodbye!")
             break
         else:
-            print("Invalid choice. Please enter a valid option.")
+            print("Invalid choice. Please enter the valid option.")
 
 if __name__ == "__main__":
     main()
