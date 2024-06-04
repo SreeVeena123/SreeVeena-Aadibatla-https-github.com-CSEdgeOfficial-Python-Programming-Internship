@@ -41,7 +41,7 @@ def calculator():
             elif choice == '4':
                 print("Result:", divide(num1, num2))
         elif choice == '5':
-            print("Thnaks for using my Calculator, Use it again!!!")
+            print("Thnaks for using my Calculator, Use it again!!")
             break
         else:
             print("Invalid input. Please enter a valid choice.")
